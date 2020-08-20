@@ -1,0 +1,57 @@
+
+                                   
+                  .
+
+                   .
+         /^\     .
+    /\   "V"
+   /__\   I      O  o
+  //..\\  I     .
+  \].`[/  I
+  /l\/j\  (]    .  O
+ /. ~~ ,\/I          .
+ \\L__j^\/I       o
+  \/--v}  I     o   .
+  |    |  I   _________
+  |    |  I c(`       ')o
+  |    l  I   \.     ,/
+_/j  L l\_!  _//^---^\\_
+
+
+Engenharia reversa:
+
+É o processo de descobrir os princípios tecnológicos e o funcionamento de um dispositivo, objeto ou sistema, através da análise de sua estrutura, função e operação. Objetivamente a engenharia reversa consiste em, por exemplo, desmontar uma máquina para descobrir como ela funciona. É objeto de estudo em universidades e faculdades principalmente ligada à área de tecnologia.
+
+-------------------------------------------------------------------------------------------
+
+Cracking de software: 
+
+É a modificação do software para remover ou desabilitar recursos considerados indesejáveis ​​pela pessoa que está violando o software, especialmente recursos de proteção contra cópia (incluindo proteção contra manipulação de software, número serial, chave de hardware, verificação de data e verificação de disco) ou de softwares maliciosos com Rasomware.
+
+-------------------------------------------------------------------------------------------
+
+Linguagem Assembly:
+
+É uma notação legível por humanos para o código de máquina que uma arquitetura de computador específica usa, utilizada para programar códigos entendidos por dispositivos computacionais, como microprocessadores e microcontroladores. O código de máquina torna-se legível pela substituição dos valores em bruto por símbolos chamados mnemónicos.
+
+-------------------------------------------------------------------------------------------
+
+Offset:
+
+Em ciência da computação, um offset (em português, deslocamento) dentro de uma matriz ou outra estrutura de dados é um inteiro indicando a distância (deslocamento) entre o começo do objeto e um dado elemento ou ponto, presumivelmente dentro do mesmo objeto.[1] O conceito de uma distância é válido apenas se todos os elementos do objeto forem do mesmo tamanho (normalmente dados em bytes ou palavras).
+
+Em engenharia da computação e programação de baixo nível (como linguagem de montagem), um offset geralmente indica o número de locais de endereço adicionados a um endereço de base para chegar a um endereço absoluto específico. Nesse sentido (original) de deslocamento, apenas a unidade básica de endereço, geralmente o byte de 8 bits, é usado para especificar o tamanho do deslocamento. Neste contexto, um deslocamento é às vezes chamado de endereço relativo.
+
+-------------------------------------------------------------------------------------------
+
+Interactive Disassembler (IDA PRO) 
+
+É um desmontador para software de computador que gera código-fonte em linguagem assembly a partir de código executável por máquina. Suporta uma variedade de formatos executáveis para diferentes processadores e sistemas operacionais . Ele também pode ser usado como um depurador para executáveis Windows PE , Mac OS X Mach-O e Linux ELF . Um decompilador plug-in para programas compilados com um C / C ++ compilador está disponível a um custo extra. A versão completa mais recente do IDA Pro é comercial, enquanto uma versão anterior e menos capaz está disponível para download gratuito (versão 7.0 em fevereiro de 2018 ). Criado pelo desenvolvedor russo Ilfak Guilfanov.
+
+-------------------------------------------------------------------------------------------
+
+Radare2
+
+Radare2 (também conhecido como r2 ) é uma estrutura completa para engenharia reversa e análise de binários; composto por um conjunto de pequenos utilitários que podem ser usados ​​juntos ou independentemente da linha de comando . Construído em torno de um desmontador para software de computador que gera código-fonte de linguagem assembly a partir de código executável por máquina, ele oferece suporte a uma variedade de formatos executáveis para diferentes arquiteturas de processador e sistemas operacionais.
+
+------------------------------------------------------------------------------------------   
